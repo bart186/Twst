@@ -107,8 +107,8 @@ const circleData = {
       { 
         element: 'house2', angle: 110, offset: 30,
         display: {
-          caption: `Hi, ayangg ada sesuatu disini dibaca yaa?`,
-          link: linkButton('https://bart186.github.io/Text-for-u/', 'iyaa sayang'),
+          caption: `Hi, ayangg ada asupan disini diliat yaa?`,
+          link: linkButton('https://bart186.github.io/Buat-pacarku-dihariini/', 'iyaa sayang'),
           button: 'gamau ah'
         } 
       },
