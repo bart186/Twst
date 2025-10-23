@@ -228,8 +228,8 @@ const circleData = {
             w: 144,
             h: 144,
           },
-          caption: `jangan diliat ini membuat kegemesan`,
-          link: linkButton('https://bart186.github.io/FOTOCANTIK/', `gmw ttp mau liat`),
+          caption: `liat hewan peliharaan ku?`,
+          link: linkButton('https://bart186.github.io/Fffffd/', `mau liat`),
           button: 'meh'
         },
       },
