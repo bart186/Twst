@@ -160,8 +160,8 @@ const circleData = {
             w: 160,
             h: 150,
           },
-          caption: 'susun game ini ,berhasil dapet mamam kesukaan',
-          link: linkButton('https://codepen.io/dariocorsi/full/rLdpWW', 'wow mauu')
+          caption: 'hitung cinta kitaa ?',
+          link: linkButton('https://bart186.github.io/Kalkulator-cint/', 'wow mauu')
         },
       },
       { 
