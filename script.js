@@ -133,8 +133,8 @@ const circleData = {
       { 
         element: 'house1', angle: 50, offset: 60,
         display: {
-          caption: `hey there, apakah kamu nak liat hadiah anivvnya?`,
-          link: linkButton('https://shopee.co.id/product/40020124/16596269405?d_id=6be62&uls_trackid=5101nieo00gv&utm_content=38cpHq1Cup4gb3X9foejDEi64KkK/', `mau ayang`),
+          caption: `hey there, apakah kamu mau liat hal yg menggemaskan?`,
+          link: linkButton('https://bart186.github.io/Kfkssvc', `mau ayang`),
         } 
       },
       { element: 'tree', angle: 65, offset: 100, color: 'white' },
@@ -148,8 +148,8 @@ const circleData = {
             w: 140,
             h: 140,
           },
-          caption: 'ada sesuatu lucu disinii coba liat?',
-          link: linkButton('https://codepen.io/cassie-codes/full/eYmXozM', `yup,aku nakk`)
+          caption: 'mau hitung cinta kita berapa?',
+          link: linkButton('https://bart186.github.io/Buatkamuu/', `yup,aku nakk`)
         },
       },
       {
