@@ -148,7 +148,7 @@ const circleData = {
             w: 140,
             h: 140,
           },
-          caption: 'mau hitung cinta kita berapa?',
+          caption: 'ada hadiah untuk kamu sayangku',
           link: linkButton('https://bart186.github.io/Buatkamuu/', `yup,aku nakk`)
         },
       },
