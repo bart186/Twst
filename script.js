@@ -215,8 +215,8 @@ const circleData = {
             w: 72,
             h: 72,
           },
-         caption: `Kumpulin point 200 dapet hadiah`,
-          link: linkButton('https://codepen.io/Yakudoo/details/YGxYej', `mau ayang`)
+         caption: `dibaca yaa ayangg`,
+          link: linkButton('https://gifft.me/id/o/b/jw7w2dkr6bxsb1ihuyo286ou', `iyaa ayang`)
         },
       },
       {
