@@ -46,7 +46,7 @@ const circleData = {
     instructions: {
       walk: 'Sebelum memulai gerakan analognya dan ada tombol bintang ',
       investigate: `pilih lah objek yg ada tanda seru dan tekan tombol bintang ya sayang ada sesuatu disana`,
-      location: `Jangan lupa ss ya ada objek yg harus kamu lakuin dan ss kirim ke aku`,
+      location: `Ini dunia buatan ku ada hal lucu kelilingin ya `,
       complete: `Enjoy semoga kamu suka ya sayang`
     },
     intro: `Hi! camat datang ayang didunia kecil buatanku`,
@@ -101,7 +101,7 @@ const circleData = {
         element: 'talking_tree', angle: 60, offset: 100,
         color: 'gold',
         display: {
-          caption: 'Selamat datang didunia kecil buatan aku spesial mensiv semoga enjoy ya sama buatan aku'
+          caption: 'Selamat datang didunia kecil buatan aku spesial yg lagi haid semoga enjoy ya sama buatan aku'
         }
       },
       { 
