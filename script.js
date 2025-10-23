@@ -121,7 +121,7 @@ const circleData = {
             w: 160,
             h: 160,
           },
-          caption: 'there! happy aniv yaa semoga kita selalu tetep bersama!',
+          caption: 'there!raina cintaku semoga kita selalu tetep bersama!',
         }, 
       },
       { element: 'tree', angle: 160, offset: 20, color: 'gold' },
